@@ -37,7 +37,7 @@ Template:
 Go Version: `go version go1.21.5 linux/amd64`
 
 
-## Generate the binary 
+## Generating the binary 
 
 
 __For Windows on Linux machine__
