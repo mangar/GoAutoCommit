@@ -51,3 +51,8 @@ __For the same machine__
 
     # Inside `src` folder
     go build -o goautocommit main.go
+
+
+
+
+*Copyright (c) 2023 Marcio Mangar*
