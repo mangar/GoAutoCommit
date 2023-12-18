@@ -1,0 +1,11 @@
+{
+    "config":{
+        "log":"C:\\Users\\my\\log\\logfile.log"
+    },
+    "repos":[
+        {
+            "name": "Temp",
+            "directory": "C:\\Users\\my\\repos\\repos\\temp"
+        }
+    ]    
+}

@@ -1,0 +1,61 @@
+# Logs
+/log/*.log
+my_config_win.json
+my_config.json
+
+
+# Binários para programas e plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Arquivos de saída de teste
+*.out
+
+# Diretório de saída
+/dist
+
+# Dependências
+/vendor/
+
+# Arquivos de configuração do editor específicos do usuário
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Diretórios de sistema do MacOS
+.DS_Store
+
+# Diretório que contém os arquivos de perfil de cobertura
+/coverage/
+
+# Diretório que contém arquivos compilados
+/bin/
+/obj/
+
+# Arquivos gerados durante a construção
+*.o
+*.a
+
+# Arquivos de cache do Go
+*.cgo1.go
+*.cgo2.c
+_cgo_defun.c
+_cgo_gotypes.go
+_cgo_export.*
+
+# Arquivos de cobertura de teste
+*.cover
+
+# Arquivos de cache do LSP
+.gopls/
+
+# Diretório de cache de módulos do Go
+$GOPATH/pkg/
+
+# Certificados SSL auto-assinados
+*.pem

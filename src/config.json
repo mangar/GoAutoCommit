@@ -1,0 +1,11 @@
+{
+    "config":{
+        "log":"/mnt/c/Users/my/loglogfile.log"
+    },
+    "repos":[
+        {
+            "name": "Temp",
+            "directory": "/mnt/c/Users/my/repos/temp"
+        }
+    ]    
+}
